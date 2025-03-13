@@ -1,0 +1,15 @@
+{
+  "dataStudio": {
+    "name": "Custom Funnel Chart",
+    "logoUrl": "https://goebou1.github.io/looker-funnel-viz/logo.png",
+    "company": "GoeBou1",
+    "packageUrl": "https://goebou1.github.io/looker-funnel-viz/funnelChart.js",
+    "components": [
+      {
+        "id": "funnelChart",
+        "type": "viz",
+        "resource": "https://goebou1.github.io/looker-funnel-viz/funnelChart.js"
+      }
+    ]
+  }
+}
