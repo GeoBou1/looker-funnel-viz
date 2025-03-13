@@ -3,7 +3,6 @@
     "name": "Custom Funnel Chart",
     "company": "geobou1",
     "logoUrl": "https://geobou1.github.io/looker-funnel-viz/logo.png",
-    "packageUrl": "https://geobou1.github.io/looker-funnel-viz/funnelChart.js",
     "components": [
       {
         "id": "funnelChart",
