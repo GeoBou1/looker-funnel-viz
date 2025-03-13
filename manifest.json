@@ -1,8 +1,8 @@
 {
   "dataStudio": {
     "name": "Custom Funnel Chart",
-    "logoUrl": "https://geobou1.github.io/looker-funnel-viz/logo.png",
     "company": "geobou1",
+    "logoUrl": "https://geobou1.github.io/looker-funnel-viz/logo.png",
     "packageUrl": "https://geobou1.github.io/looker-funnel-viz/funnelChart.js",
     "components": [
       {
@@ -13,4 +13,3 @@
     ]
   }
 }
-
